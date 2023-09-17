@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\Example001_ConsoleHello.csproj": {}
+    "f:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\Example001_ConsoleHello.csproj": {}
   },
   "projects": {
-    "F:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\Example001_ConsoleHello.csproj": {
+    "f:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\Example001_ConsoleHello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\Example001_ConsoleHello.csproj",
+        "projectUniqueName": "f:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\Example001_ConsoleHello.csproj",
         "projectName": "Example001_ConsoleHello",
-        "projectPath": "F:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\Example001_ConsoleHello.csproj",
+        "projectPath": "f:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\Example001_ConsoleHello.csproj",
         "packagesPath": "C:\\Users\\dmut\\.nuget\\packages\\",
-        "outputPath": "F:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\obj\\",
+        "outputPath": "f:\\src\\git\\ExamplesCSH\\Example001_ConsoleHello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmut\\AppData\\Roaming\\NuGet\\NuGet.Config"
