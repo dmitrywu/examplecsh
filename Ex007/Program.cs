@@ -1,0 +1,1 @@
+﻿int foolrand = new Random
